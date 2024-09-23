@@ -1,5 +1,5 @@
 <section align="center">
-  <img height="228" src="./imgs/diamond_app_icon.png" alt="App Icon">
+  <img height="228" src="./readme_assets/diamond_app_icon.png" alt="App Icon">
   <h1>I Am Rich</h1>
   <p><em>An Xcode Storyboard and Interface Builder Challenge.</em></p>
 </section>
@@ -13,7 +13,7 @@ This is a guided project based on Dr. Angela Yu's **Complete iOS App Development
 
 ## Concepts Learned
 
-<img align="right" src="./imgs/I-am_Rich-Simulation-Screenshot.png" width="125" alt="App Simulation Screenshot">
+<img align="right" src="./readme_assets/I-am_Rich-Simulation-Screenshot.png" width="125" alt="App Simulation Screenshot">
 
 Throughout this project, I learned and implemented the following key concepts:
 
@@ -25,9 +25,13 @@ Throughout this project, I learned and implemented the following key concepts:
 - Running and testing the app on both the iOS Simulator and a physical iPhone device 🤳
 
 
-
 ## How to Run
 
 1. Clone the repository to your local machine.
 2. Open the project in Xcode.
 3. Run the app on a simulator or your connected iPhone device.
+
+---
+<section align="center">
+  <p style="color:#717272">coderBri © 2024</p>
+</section>
