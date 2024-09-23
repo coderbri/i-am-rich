@@ -33,5 +33,5 @@ Throughout this project, I learned and implemented the following key concepts:
 
 ---
 <section align="center">
-  <p style="color:#717272">coderBri © 2024</p>
+  <code>coderBri © 2024</code>
 </section>
