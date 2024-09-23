@@ -13,7 +13,7 @@ This is a guided project based on Dr. Angela Yu's **Complete iOS App Development
 
 ## Concepts Learned
 
-<img align="right" src="./imgs/I-am_Rich-Simulation-Screenshot.png" width="150" alt="App Simulation Screenshot">
+<img align="right" src="./imgs/I-am_Rich-Simulation-Screenshot.png" width="125" alt="App Simulation Screenshot">
 
 Throughout this project, I learned and implemented the following key concepts:
 
